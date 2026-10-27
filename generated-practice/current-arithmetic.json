@@ -1,7 +1,7 @@
 {
-  "id": 340060,
+  "id": 340061,
   "operation": "add",
   "a": 340,
-  "b": 59,
-  "expected": 399
+  "b": 60,
+  "expected": 400
 }

@@ -1,0 +1,7 @@
+{
+  "name": "javascript-practice-collection",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/check-exercises.cjs"
+  }
+}
